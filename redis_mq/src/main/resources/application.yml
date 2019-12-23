@@ -6,8 +6,6 @@ server:
         min-spare-threads: 30
     #context-path: /shuiwu
     port: 8080
-img:
-    url: http://110.185.160.31:8402/images/
 # mysql
 spring:
     # 环境 dev|test|pro
